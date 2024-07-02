@@ -315,8 +315,8 @@ nav{
     color:var(--text-dark);
 }
 
-.swiper-pagination-bullet-active{
-    background-color: var(--text-dark);
+.swiper-pagination-bullet{
+    visibility: hidden;
 }
 
 .gallery__grid{
